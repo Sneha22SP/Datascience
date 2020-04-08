@@ -3,9 +3,8 @@
 
 ## python for Datascience
  
+ **Python Data Structures**
  
-        **Python Data Structures**
- 
-o	Lists and Tuples
-o	Sets
-o	Dictionaries
+              o	Lists and Tuples
+              o	Sets
+              o	Dictionaries
