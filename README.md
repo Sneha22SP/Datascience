@@ -3,5 +3,5 @@
  **Python Data Structures**
  
  -	Lists and Tuples
- -Sets
- -Dictionaries
+ - Sets
+ - Dictionaries
